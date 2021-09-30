@@ -1,0 +1,20 @@
+.footer {
+    display: flex;
+    padding-bottom: 150px;
+    align-items: center;
+}
+
+.logo {
+    display: block;
+    width: 100px;
+}
+
+.btn-map {
+    width: 100px;
+    display: block;
+    margin-left: auto;
+}
+
+@media(max-width: 768px) {
+
+} 

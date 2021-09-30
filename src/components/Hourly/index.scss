@@ -1,0 +1,24 @@
+.hourly-responsive {
+    width: 100%;
+    overflow-x: scroll;
+    border-top: 1px solid #f1f2f6;
+    border-bottom: 1px solid #f1f2f6;
+}
+
+.hourly-wrap {
+    display: flex;
+    justify-content: flex-start;
+    width: 3840px;
+    .hourly-box {
+        width: 80px;
+    }
+}
+
+@media (max-width: 768px) {
+    .hourly-wrap {
+        width: 2880px;
+        .hourly-box {
+            width: 60px;
+        }
+    }
+}

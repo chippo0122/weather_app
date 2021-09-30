@@ -1,0 +1,19 @@
+.current-temp {
+    width: 250px;
+    margin: 0 auto;
+    .current-now {
+        font-size: calc(4rem + 2vw);
+    }
+
+    .current-temp-range {
+        p {
+            margin: 0 !important;
+        }
+    }
+
+    .box {
+        width: 1px;
+        height: 35px;
+        background-color: #b2bec3;
+    }
+}

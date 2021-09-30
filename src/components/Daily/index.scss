@@ -1,0 +1,62 @@
+.daily-wrap {
+    border-bottom: 1px solid #f1f2f6;
+}
+.daily-box {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 1.25rem;
+    .daily-box-title {
+        width: 100px;
+    }
+
+    .daily-box-img {
+        display: block;
+        width: 70px;
+    }
+
+    .daily-box-rain {
+        width: 50px;
+    }
+
+    .daily-box-temp {
+        width: 80px;
+    }
+
+    .daily-box-description {
+        width: 100px;
+    }
+}
+
+@media (max-width: 768px) {
+    .daily-box {
+        font-size: 1rem;
+        .daily-box-title {
+            width: 90px;
+        }
+        .daily-box-img {
+            width: 45px;
+        }
+    
+        .daily-box-rain {
+            width: 70px;
+        }
+    
+        .daily-box-temp {
+            width: 80px;
+        }
+    }
+
+    .daily-desktop-show {
+        display: none !important;
+    }
+}
+
+@media (max-width: 375px) {
+    .daily-box {
+        font-size: 0.85rem;
+        .daily-box-img {
+            width: 40px;
+        }
+    }
+}
