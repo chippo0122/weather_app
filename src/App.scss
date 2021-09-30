@@ -36,4 +36,28 @@ $smooth: #f1f2f6;
     &::-webkit-scrollbar-thumb {
         background-color: #34495e8a;
     }
+
+    &::-webkit-media-controls-panel {
+
+        display: none!important;
+      
+        -webkit-appearance: none;
+      
+      }
+      
+    &::--webkit-media-controls-play-button {
+      
+        display: none!important;
+      
+        -webkit-appearance: none;
+      
+      }
+      
+    &::-webkit-media-controls-start-playback-button {
+      
+        display: none!important;
+      
+        -webkit-appearance: none;
+      
+      }
 }
