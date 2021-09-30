@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "./build/static/css/main.64226ef1.chunk.css",
+    "main.js": "./build/static/js/main.e05727a8.chunk.js",
+    "main.js.map": "./build/static/js/main.e05727a8.chunk.js.map",
+    "runtime-main.js": "./build/static/js/runtime-main.a102ac00.js",
+    "runtime-main.js.map": "./build/static/js/runtime-main.a102ac00.js.map",
+    "static/js/2.6f956463.chunk.js": "./build/static/js/2.6f956463.chunk.js",
+    "static/js/2.6f956463.chunk.js.map": "./build/static/js/2.6f956463.chunk.js.map",
+    "index.html": "./build/index.html",
+    "static/css/main.64226ef1.chunk.css.map": "./build/static/css/main.64226ef1.chunk.css.map",
+    "static/js/2.6f956463.chunk.js.LICENSE.txt": "./build/static/js/2.6f956463.chunk.js.LICENSE.txt",
+    "static/media/Clear.b03874c4.mp4": "./build/static/media/Clear.b03874c4.mp4",
+    "static/media/Clouds.b715e6b2.mp4": "./build/static/media/Clouds.b715e6b2.mp4",
+    "static/media/Clouds2.6f4a949f.mp4": "./build/static/media/Clouds2.6f4a949f.mp4",
+    "static/media/Clouds4.0041cba4.mp4": "./build/static/media/Clouds4.0041cba4.mp4",
+    "static/media/Drizzle.9c2fcd66.mp4": "./build/static/media/Drizzle.9c2fcd66.mp4",
+    "static/media/Dust.878e20b2.mp4": "./build/static/media/Dust.878e20b2.mp4",
+    "static/media/Mist.1dc2a625.mp4": "./build/static/media/Mist.1dc2a625.mp4",
+    "static/media/Rain.fefe1abc.mp4": "./build/static/media/Rain.fefe1abc.mp4",
+    "static/media/Snow.f8cbff6e.mp4": "./build/static/media/Snow.f8cbff6e.mp4",
+    "static/media/Storm.f8c5e5eb.mp4": "./build/static/media/Storm.f8c5e5eb.mp4",
+    "static/media/Thunderstorm.8699ceb4.mp4": "./build/static/media/Thunderstorm.8699ceb4.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a102ac00.js",
+    "static/js/2.6f956463.chunk.js",
+    "static/css/main.64226ef1.chunk.css",
+    "static/js/main.e05727a8.chunk.js"
+  ]
+}
