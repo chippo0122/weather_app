@@ -2,6 +2,8 @@
 
 天氣預報網頁:
 
+https://chippo0122.github.io/weather_app/
+
 1.資料串接來源於OpenWeatherMap API
 
 2.由於受到OpenWeather API所提供服務影響，其並不支援漢字搜尋，搜尋功能請以輸入英文為主
