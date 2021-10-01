@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "./build/static/css/main.2ceb26e2.chunk.css",
-    "main.js": "./build/static/js/main.e61b6316.chunk.js",
-    "main.js.map": "./build/static/js/main.e61b6316.chunk.js.map",
+    "main.css": "./build/static/css/main.6b3d6c45.chunk.css",
+    "main.js": "./build/static/js/main.dc860b0e.chunk.js",
+    "main.js.map": "./build/static/js/main.dc860b0e.chunk.js.map",
     "runtime-main.js": "./build/static/js/runtime-main.a102ac00.js",
     "runtime-main.js.map": "./build/static/js/runtime-main.a102ac00.js.map",
     "static/js/2.6f956463.chunk.js": "./build/static/js/2.6f956463.chunk.js",
     "static/js/2.6f956463.chunk.js.map": "./build/static/js/2.6f956463.chunk.js.map",
     "index.html": "./build/index.html",
-    "static/css/main.2ceb26e2.chunk.css.map": "./build/static/css/main.2ceb26e2.chunk.css.map",
+    "static/css/main.6b3d6c45.chunk.css.map": "./build/static/css/main.6b3d6c45.chunk.css.map",
     "static/js/2.6f956463.chunk.js.LICENSE.txt": "./build/static/js/2.6f956463.chunk.js.LICENSE.txt",
     "static/media/Clear.b03874c4.mp4": "./build/static/media/Clear.b03874c4.mp4",
     "static/media/Clouds.b715e6b2.mp4": "./build/static/media/Clouds.b715e6b2.mp4",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.a102ac00.js",
     "static/js/2.6f956463.chunk.js",
-    "static/css/main.2ceb26e2.chunk.css",
-    "static/js/main.e61b6316.chunk.js"
+    "static/css/main.6b3d6c45.chunk.css",
+    "static/js/main.dc860b0e.chunk.js"
   ]
 }

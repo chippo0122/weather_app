@@ -12,7 +12,7 @@ class index extends Component {
                     {hourly ?
                         hourly.map((el) => {
                             const {icon} = el.weather[0];
-                            const iconURL = `http://openweathermap.org/img/wn/${icon}@2x.png`;
+                            const iconURL = `https://openweathermap.org/img/wn/${icon}@2x.png`;
                             return (
                                 <li key={el.dt} className="hourly-box text-center text-smooth pt-3">
                                     <p className="m-0">

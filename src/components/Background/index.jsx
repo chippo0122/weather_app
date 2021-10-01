@@ -34,7 +34,7 @@ class index extends Component {
         const status = this.getWeatherStatus(code);
 
         return (
-            <Player ref={this.videoPlayer} autoPlay muted loop>
+            <Player ref={this.videoPlayer} autoPlay playsInline muted loop>
                 <source src={this.state.WEATHER[status]}/>
                 <BigPlayButton disabled />
                 <ControlBar disabled/>

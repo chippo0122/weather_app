@@ -53,7 +53,7 @@ export default class index extends Component {
                 <p className="text-smooth fs-4">
                     {`${Math.floor(this.state.TEMP)}°C`}
                 </p>
-                <Player ref={this.bgVideo} autoPlay muted loop>
+                <Player ref={this.bgVideo} autoPlay playsInline muted loop>
                     <source src={this.state.WEATHER[status]} />
                     <BigPlayButton disabled />
                     <ControlBar disabled />

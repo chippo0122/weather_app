@@ -14,7 +14,7 @@ class index extends Component {
                         daily.map(el => {
                             const { max, min } = el.temp;
                             const { icon, description } = el.weather[0];
-                            const iconURL = `http://openweathermap.org/img/wn/${icon}@2x.png`;
+                            const iconURL = `https://openweathermap.org/img/wn/${icon}@2x.png`;
                             return (
                                 <li className="text-smooth" key={el.dt}>
                                     <div className="daily-box">
